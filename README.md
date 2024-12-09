@@ -138,6 +138,10 @@ eksctl delete cluster --name three-tier-cluster --region us-west-2
 ## Rewards
 - Successful PR merges will be eligible for exciting prizes!
 
+## Video Reference
+https://www.youtube.com/watch?v=wgmYbSN6_Is
+
+
 ## Support
 For any queries or issues, please open an issue in the repository.
 
